@@ -60,7 +60,6 @@ Now type the code as shown in below image
 
 ![](images/insert_mode.PNG)
 
----
 ```cpp
 #include<iostream>
 using namespace std;
@@ -73,7 +72,6 @@ int main()
 
 }
 ```
----
 
 Now enter **esc** to enter command mode.
 
