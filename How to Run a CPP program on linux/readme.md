@@ -14,7 +14,7 @@ As the tradition goes, we will also start, by writing a basic "Hello World" prog
 
 The online terminal will look like this 
 
-![](images/terminal.png)
+![](images/terminal.PNG)
 
 
 ### **Step 2**
