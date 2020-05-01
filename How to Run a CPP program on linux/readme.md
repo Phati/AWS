@@ -16,7 +16,7 @@ As the tradition goes, we will also start, by writing a basic "Hello World" prog
 
 The online terminal will look like this 
 
->![](images/terminal.PNG)
+![](images/terminal.PNG)
 
 ---
 ### **Step 2**
@@ -28,7 +28,7 @@ Run the command given below:
 
 This will show below result if the gcc compiler is already installed on your linux
 
->![](images/check_gcc.PNG)
+![](images/check_gcc.PNG)
 
 Or it will show that you will need to install the compiler and it will also provide the command that you need to run, that will be:
 
