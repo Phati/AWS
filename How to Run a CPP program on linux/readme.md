@@ -6,11 +6,11 @@ As the tradition goes, we will also start, by writing a basic "Hello World" prog
 
 
 ### **Step 1**
->**Open the terminal on your linux operating system.
+> **Open the terminal on your linux operating system.**
 >
->OR
+> **OR**
 >
->Open the online terminal.**
+> **Open the online terminal.**
 
 The online terminal will look like this 
 
